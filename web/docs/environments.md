@@ -20,6 +20,9 @@ For example, in the **MINGW64** environment the `$PATH` variable starts with
 `/mingw64/bin:/usr/bin` so you get all mingw64 based tools as well as all msys
 tools.
 
+You may use the `shell` tool to switch between environments in a shell. Run
+`shell --help` for how to use it.
+
 ## Overview
 
 || Name | Prefix | Toolchain | Architecture | C Library | C++ Library |
